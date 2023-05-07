@@ -1,7 +1,5 @@
 # Fortaleza dos CodeMiners
 
-<img src='imagens\codecamp.png' width='300'>
-
 Nivel: Avançado / Carga Horária 18hrs / Plataforma: [DIO](https://www.dio.me)
 
 ---
