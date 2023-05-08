@@ -7,7 +7,7 @@ using namespace std;
 class FortalezaCodeMiner {
 public:
   FortalezaCodeMiner(const vector<int>& equipamentos) : equipamentos_(equipamentos) {
-    sort(equipamentos_.begin(), equipamentos_.end()); // Ordena os equipamentos
+    sort(equipamentos_.begin(), equipamentos_.end()); 
   }
 
   bool possui_equipamento(int equipamento) {
