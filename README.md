@@ -1,5 +1,7 @@
 # Fortaleza dos CodeMiners
 
+<img src="https://hermes.dio.me/tracks/cc708075-49ef-4974-85ca-c9a33a19e32d.png" style="width:300px;height:260px;">
+
 Nivel: Avançado / Carga Horária 18hrs / Plataforma: [DIO](https://www.dio.me)
 
 ---
